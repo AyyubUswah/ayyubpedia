@@ -1,0 +1,39 @@
+body {
+ background-image:url("https://backgroundcheckall.com/wp-content/uploads/2017/12/luxury-white-background-8.jpg");
+}
+
+table,
+ th,
+  td {
+    border: 2px solid black;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 125px;
+    height: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+
+input[type=number] {
+    width: 30px;
+}
+
+input[type=submit] {
+    margin-top: 10px;
+}
+
+
+
+
